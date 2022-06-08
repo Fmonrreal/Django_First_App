@@ -1,0 +1,6 @@
+/venv
+/__pycache__
+/webpersonal/__pycache__
+/portfolio/__pycache__
+/migrations/__pycache__
+/core/__pycache__
